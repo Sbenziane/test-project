@@ -9,5 +9,6 @@
         <li><a href="admin/index.php">Page d'administration</a></li>
     </ul>
 </nav>
+<script type="text/javascript" src="<?php echo dirname(__FILE__)."\Assets\js\jquery-3.3.1.min.js"; ?>" ></script>
 </head>
 <body>
